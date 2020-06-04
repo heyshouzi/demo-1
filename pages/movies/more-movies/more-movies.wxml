@@ -1,0 +1,4 @@
+<!--pages/movies/more-movies/more-movies.wxml-->
+<import src="../movies-gird-template/movies-grid-template.wxml" />
+
+<template is="moviesGridTemplate" data="{{movies}}"></template>

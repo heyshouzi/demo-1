@@ -1,0 +1,10 @@
+/* pages/movies/movies-gird-template/movies-grid-template.wxss */
+@import "../movie-template/movie-tmeplate.wxss";
+.single-view-container{
+    float:left;
+    margin-bottom: 40rpx;
+}
+.grid-container{
+    margin:40rpx 0 40rpx 6rpx;
+    height: 1300rpx;
+}
